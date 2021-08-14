@@ -9,13 +9,13 @@ The conjecture is that no matter what value of n, the sequence will always reach
 
 Observation:
 
-Tried to make a graph showing the andulation of the nubers going up and down,
-until they all coems down to 1. Certain numbers taked quite long to reach
-back to 1, while some others are quite straight forward.
+Tried to make a graph showing the andulation of Collatz Conjecture going up and down,
+until they all comes down to 1. Certain numbers took quite long to reach
+back to 1, while some others were quite straight forward.
 
 One thing I found really interesting: when tried to run several graphs on a
-lets say 15 consecutive numbers, there are some instances that the maximum
-number that it reached during the plotting graphs, are same some multiple
+lets say 25 consecutive numbers, there are some instances that the maximum
+number that it reached during the plotting graphs, are the same for multiple
 values.
 
 For example for numbers 108, 109 & 110: they all had exactly the same maximum
@@ -39,7 +39,7 @@ Starting number: 95
 Total number of steps = 106
 Maximum value reached 9,232
 
-Interestingly, these pattern seems to be quite common, everytime
-the function has been run for random consequitive numbers.
+Interestingly, this pattern seems to be quite common everytime
+the function has been run for random consequtive numbers.
 
 Iftikhar Mustafa.
