@@ -19,4 +19,21 @@ number that it reached during the plotting graphs, are same some multiple
 values.
 
 For example for numbers 108, 109 & 110: they all had exactly the same maximum
-value.
+value. When tried numbers 77 to 97, look at the numbers below. They all 
+came down to 1 eventually, taking somewhat different routes, but reaching
+the same maximum peak.
+
+
+
+Starting number: 94
+Total number of steps = 106
+Maximum value reached 9,232
+Starting number: 95
+Total number of steps = 106
+Maximum value reached 9,232
+Starting number: 96
+Total number of steps = 13
+Maximum value reached 96
+Starting number: 97
+Total number of steps = 119
+Maximum value reached 9,232
