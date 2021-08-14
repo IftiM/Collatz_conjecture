@@ -17,3 +17,6 @@ One thing I found really interesting: when tried to run several graphs on a
 lets say 15 consecutive numbers, there are some instances that the maximum
 number that it reached during the plotting graphs, are same some multiple
 values.
+
+For example for numbers 108, 109 & 110: they all had exactly the same maximum
+value.
