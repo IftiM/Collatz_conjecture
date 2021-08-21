@@ -3,7 +3,6 @@ Start with any positive integer n
 If the n even, divide by 2
 If the n is odd, the next term is 3n+1 Keep going until it eventually reaches 1 """
 
-
 i = int(input())
 starting_number = i
 # r is a counter, to calculate the number of steps needed to reach down to number 1
